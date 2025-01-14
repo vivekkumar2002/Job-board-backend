@@ -24,7 +24,7 @@ Follow these steps to set up and run the project locally:
 ### Prerequisites
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vivekkumar2002/Job-board-backend
    cd job-board-api
 2. Install dependencies:
    ```bash
