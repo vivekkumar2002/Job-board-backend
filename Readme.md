@@ -26,3 +26,9 @@ Follow these steps to set up and run the project locally:
    ```bash
    git clone <repository-url>
    cd job-board-api
+2. Install dependencies:
+   ```bash
+   npm install
+3. Start the server:
+   ```bash
+   npm run dev
