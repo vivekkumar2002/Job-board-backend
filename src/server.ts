@@ -6,7 +6,7 @@ import { AppDataSource } from './config/database';
 import jobRoutes from './routes/jobRoutes';
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = parseInt(process.env.PORT || '3000', 10);
 
 // Essential middleware
 app.use(express.json());
