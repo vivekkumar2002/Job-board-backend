@@ -2,7 +2,7 @@
 
 A RESTful API built with Node.js, TypeScript, Express, and MySQL using TypeORM. The API is deployed on Render with an Aiven MySQL database.
 
-🔗 **Live API Documentation:** [API Docs](https://job-board-backend-0wx0.onrender.com/api-docs/)
+🔗 **Live API Documentation:** [API Docs](https://job-board-backend-0wx0.onrender.com/api-docs/#)
 
 ---
 
